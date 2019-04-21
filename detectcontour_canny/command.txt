@@ -1,0 +1,1 @@
+-I /usr/local/include/opencv4 -lstdc++ -lopencv_imgcodecs -lopencv_highgui -lopencv_core -lopencv_imgproc -lopencv_videoio -lopencv_video -lopencv_videostab
